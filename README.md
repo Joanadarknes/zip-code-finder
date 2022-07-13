@@ -9,5 +9,7 @@ Desktop:
  
 mobile:
 
-![image](https://user-images.githubusercontent.com/95653155/178845745-ec1addc6-aa2d-4789-84ae-d4169b9b68b4.png)
+![image](https://user-images.githubusercontent.com/95653155/178846102-5fefa911-bb87-4fb0-a635-abb2f523a730.png)
+![image](https://user-images.githubusercontent.com/95653155/178846342-488f4e38-91a8-4702-abc7-1c0441e76796.png)
+
 
